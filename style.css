@@ -1,0 +1,15 @@
+#bG {
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  width: 600px;
+  height: 500px;
+  border-radius: 8px; }
+
+#display {
+  font-family: 'Lobster', cursive, serif;
+  text-align: center;
+  font-size: 100px;
+  height: 500px;
+  margin: 200% 0;
+  padding: 180px 0; }
