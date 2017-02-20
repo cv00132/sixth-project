@@ -15,8 +15,8 @@ CSS
 1. Utilized Google Fonts to recreate the numbers as shown in the mockup
 
 Javascript
-1. Used `Set Intervarl` to begin clock count
+1. Used `Set Interval` to begin clock count
 2. With `if` statements I was able to create the clock count
 
 
-https://github.com/cv00132/sixth-project
+https://github.com/cv00132/sixth-project-hrd
