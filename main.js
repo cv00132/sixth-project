@@ -32,7 +32,6 @@ bG.style.backgroundColor = chameleonBG;
 setInterval(clock, 1000);
 
 console.log(clock());
-// console.assert(myCallback, 1000)
 
 
 //setInterval(clock(), 1000);
