@@ -18,5 +18,4 @@ Javascript
 1. Used `Set Interval` to begin clock count
 2. With `if` statements I was able to create the clock count
 
-
 https://github.com/cv00132/sixth-project-hrd
